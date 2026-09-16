@@ -1,14 +1,3 @@
-# Hi there, I'm Sharan Raj 👋
-
-I'm an aspiring developer passionate about building interactive, user-friendly web applications.
-
-- 🔭 Currently working on: Web development projects & JavaScript applications
-- 🌱 Currently learning: Modern Frontend & Backend development, Git workflows
-- 💬 Ask me about: HTML, CSS, JavaScript, Git
-- ⚡ Fun fact: Learning something new every single day!
-
-### 🛠️ Tech Stack & Tools
-`HTML5` `CSS3` `JavaScript` `Git` `GitHub` `VS Code`
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=SHARAN%20RAJ&fontSize=52&fontColor=00f2fe&desc=Creative%20Full-Stack%20Developer%20%7C%20AI%20Workflows%20Specialist&descSize=20&descAlignY=68&descAlign=50" width="100%"/>
 
@@ -30,8 +19,10 @@ I'm an aspiring developer passionate about building interactive, user-friendly w
 
 - 📍 Based in **Chennai, India**
 - 💼 **Creative Full-Stack Developer & AI Systems Engineer** with **3+ years** of hands-on experience building high-performance web applications, 3D WebGL experiences, and resilient cloud architectures.
-- 🚀 Passionate about 60fps animations, WebGL visual depth, sub-second API latencies, and agentic AI pipelines.
-- 🎯 Constantly architecting scalable full-stack products and exploring cutting-edge developer tooling.
+- 🔭 **Currently Building:** High-performance Next.js web applications & interactive Three.js 3D experiences.
+- 🚀 **Passionate About:** 60fps animations, WebGL visual depth, sub-second API latencies, and agentic AI pipelines.
+- 💬 **Ask Me About:** React, Next.js, Three.js, Node.js, AI workflows, and Git.
+- ⚡ **Philosophy:** Every pixel has purpose; every interaction tells a story.
 
 ---
 
