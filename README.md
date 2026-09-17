@@ -86,13 +86,13 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharanzwing&show_icons=true&theme=radical&hide_border=true&bg_color=08070b&title_color=00f2fe&icon_color=00f2fe&text_color=e2e8f0" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharanzwing&layout=compact&theme=radical&hide_border=true&bg_color=08070b&title_color=00f2fe&text_color=e2e8f0" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sharanzwing&show_icons=true&theme=radical&hide_border=true&bg_color=08070b&title_color=00f2fe&icon_color=00f2fe&text_color=e2e8f0" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sharanzwing&layout=compact&theme=radical&hide_border=true&bg_color=08070b&title_color=00f2fe&text_color=e2e8f0" height="165" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharanzwing&theme=radical&hide_border=true&background=08070b&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sharanzwing&label=PROFILE%20VIEWS&style=for-the-badge&color=00f2fe" alt="Profile Views" />
+</p>
 
 ---
 
