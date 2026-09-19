@@ -86,8 +86,18 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sharanzwing&show_icons=true&theme=radical&hide_border=true&bg_color=08070b&title_color=00f2fe&icon_color=00f2fe&text_color=e2e8f0" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sharanzwing&layout=compact&theme=radical&hide_border=true&bg_color=08070b&title_color=00f2fe&text_color=e2e8f0" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Sharanzwing&theme=radical&hide_border=true&background=08070b&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak & Total Contributions" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Sharanzwing&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=08070b&title_color=00f2fe&icon_color=00f2fe&text_color=e2e8f0" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sharanzwing&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=08070b&title_color=00f2fe&text_color=e2e8f0" height="175" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <p align="center"><strong>📈 Live Contribution Graph</strong></p>
+  <img src="https://ghchart.rshah.org/00f2fe/Sharanzwing" alt="Sharan's Live Contribution Calendar" width="95%" />
 </div>
 
 <p align="center">
